@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+langchain
+langchain-community
+langchain-core
+langchain-groq
+groq
